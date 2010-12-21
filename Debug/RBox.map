@@ -1,0 +1,830 @@
+Archive member included because of file (symbol)
+
+C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+                              ./src/0VideoOut.o (SystemCoreClock)
+c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                              ./src/0VideoOut.o (memcpy)
+c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                              ./src/3d.o (memset)
+c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                              ./src/0VideoOut.o (__aeabi_idiv)
+
+Allocating common symbols
+Common symbol       size              file
+
+_lastx              0x4               ./src/0VideoOut.o
+gScreen             0x250             ./src/0VideoOut.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/0VideoOut.o
+ .text.blit_proc_len
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.ComeBackIn
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.ActiveVideo
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.StartLine
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.MusicPlay
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.MusicSample
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.chroma_phase
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.chroma_palette
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.InitTimer
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.SSPInit  0x00000000        0x0 ./src/0VideoOut.o
+ .text.VideoOutWaitVBL
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.ADCInit  0x00000000        0x0 ./src/0VideoOut.o
+ .text.Debounce
+                0x00000000        0x0 ./src/0VideoOut.o
+ .text.InitScreen
+                0x00000000        0x0 ./src/0VideoOut.o
+ .group         0x00000000        0x0 ./src/3d.o
+ .text          0x00000000        0x0 ./src/3d.o
+ .text._Z4LerpPhs
+                0x00000000        0x0 ./src/3d.o
+ .ARM.extab.text._Z4LerpPhs
+                0x00000000        0x0 ./src/3d.o
+ .ARM.exidx.text._Z4LerpPhs
+                0x00000000        0x0 ./src/3d.o
+ .text._Z10GetBGColors
+                0x00000000        0x0 ./src/3d.o
+ .ARM.extab.text._Z10GetBGColors
+                0x00000000        0x0 ./src/3d.o
+ .ARM.exidx.text._Z10GetBGColors
+                0x00000000        0x0 ./src/3d.o
+ .text._Z5DrawTR8TriangleP4Vec3
+                0x00000000        0x0 ./src/3d.o
+ .ARM.extab.text._Z5DrawTR8TriangleP4Vec3
+                0x00000000        0x0 ./src/3d.o
+ .ARM.exidx.text._Z5DrawTR8TriangleP4Vec3
+                0x00000000        0x0 ./src/3d.o
+ .text._Z4SWAPRhS_
+                0x00000000        0x0 ./src/3d.o
+ .ARM.extab.text._Z4SWAPRhS_
+                0x00000000        0x0 ./src/3d.o
+ .ARM.exidx.text._Z4SWAPRhS_
+                0x00000000        0x0 ./src/3d.o
+ .ARM.extab.text._Z17DrawTrianglesLoopPhS_
+                0x00000000        0x0 ./src/3d.o
+ .text          0x00000000        0x0 ./src/D3DDemo.o
+ .ARM.extab.text._Z7D3DInitv
+                0x00000000        0x0 ./src/D3DDemo.o
+ .text          0x00000000        0x0 ./src/PaletteDemo.o
+ .data          0x00000000        0x0 ./src/PaletteDemo.o
+ .bss           0x00000000        0x0 ./src/PaletteDemo.o
+ .text          0x00000000        0x0 ./src/ParticleDemo.o
+ .data          0x00000000        0x0 ./src/ParticleDemo.o
+ .bss           0x00000000        0x0 ./src/ParticleDemo.o
+ .text          0x00000000        0x0 ./src/Shell.o
+ .data          0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text._Z14LineBufferInitv
+                0x00000000        0x0 ./src/Shell.o
+ .text._Z14LineBufferBusyv
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text._Z14LineBufferBusyv
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.exidx.text._Z14LineBufferBusyv
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text._Z13LineBufferGetv
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x0 ./src/Shell.o
+ .text.CopyPattern
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.CopyPattern
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.exidx.text.CopyPattern
+                0x00000000        0x0 ./src/Shell.o
+ .text.DrawSpriteLines
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.DrawSpriteLines
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.exidx.text.DrawSpriteLines
+                0x00000000        0x0 ./src/Shell.o
+ .text.FillLine
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.FillLine
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.exidx.text.FillLine
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.FillLine24
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.FillRuns
+                0x00000000        0x0 ./src/Shell.o
+ .text.RenderCells
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.RenderCells
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.exidx.text.RenderCells
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text.CPPShell
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text._Z13CopyProcToRamPvPhi
+                0x00000000        0x0 ./src/Shell.o
+ .ARM.extab.text._Z17LineBufferEnqueuePh
+                0x00000000        0x0 ./src/Shell.o
+ .text          0x00000000        0x0 ./src/SpriteDemo.o
+ .data          0x00000000        0x0 ./src/SpriteDemo.o
+ .bss           0x00000000        0x0 ./src/SpriteDemo.o
+ .text          0x00000000        0x0 ./src/TileDemo.o
+ .data          0x00000000        0x0 ./src/TileDemo.o
+ .bss           0x00000000        0x0 ./src/TileDemo.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .text.SysTick_Handler
+                0x00000000        0x0 ./src/cr_startup_lpc11.o
+ .text          0x00000000        0x0 ./src/math3D.o
+ .data          0x00000000        0x0 ./src/math3D.o
+ .bss           0x00000000        0x0 ./src/math3D.o
+ .text._Z3SINh  0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._Z3SINh
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.exidx.text._Z3SINh
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._Z3COSh
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix9TranslateElll
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._Z2SCiRlS_
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix9TransformER4Vec3
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix8IdentityEv
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix11ConcatenateERS_
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix7RotateZEi
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix7RotateYEi
+                0x00000000        0x0 ./src/math3D.o
+ .ARM.extab.text._ZN6Matrix7RotateXEi
+                0x00000000        0x0 ./src/math3D.o
+ .text          0x00000000        0x0 ./src/rbox_main.o
+ .data          0x00000000        0x0 ./src/rbox_main.o
+ .bss           0x00000000        0x0 ./src/rbox_main.o
+ .text          0x00000000        0x0 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .bss           0x00000000        0x0 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000        0x0 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .rodata        0x00000000        0x0 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text._start_module_memcpy
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text._end_module_memcpy
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .text._start_module_memset
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .text._end_module_memset
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lmul
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_llsl
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_llsr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lasr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_lcmp
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_ulcmp
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uread4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uread8
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uwrite4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_uwrite8
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memcpy
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memcpy4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memmove
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memmove4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memset
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memset4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memclr
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_memclr4
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_idivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__aeabi_ldiv0
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_uldivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+ .text.__bhs_ldivmod
+                0x00000000        0x0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/0VideoOut.o
+LOAD ./src/3d.o
+LOAD ./src/D3DDemo.o
+LOAD ./src/PaletteDemo.o
+LOAD ./src/ParticleDemo.o
+LOAD ./src/Shell.o
+LOAD ./src/SpriteDemo.o
+LOAD ./src/TileDemo.o
+LOAD ./src/cr_startup_lpc11.o
+LOAD ./src/math3D.o
+LOAD ./src/rbox_main.o
+LOAD C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00008000                __top_MFlash32 = 0x8000
+                0x10002000                __top_RamLoc8 = 0x10002000
+
+.text           0x00000000     0x3234
+ FILL mask 0xff
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x32a8 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x470 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000470 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x1430 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.blit_proc
+                0x000000d4       0xa8 ./src/0VideoOut.o
+                0x000000d4                blit_proc
+ .text.VideoOutLine
+                0x0000017c        0xc ./src/0VideoOut.o
+                0x0000017c                VideoOutLine
+ .text.VideoOutEnqueueLine
+                0x00000188       0x30 ./src/0VideoOut.o
+                0x00000188                VideoOutEnqueueLine
+ .text.ReadXY   0x000001b8      0x108 ./src/0VideoOut.o
+                0x000001b8                ReadXY
+ .text.CheckSleep
+                0x000002c0       0x48 ./src/0VideoOut.o
+                0x000002c0                CheckSleep
+ .text.SysTick_Handler
+                0x00000308      0x114 ./src/0VideoOut.o
+                0x00000308                SysTick_Handler
+ .text.VideoOutInit
+                0x0000041c      0x220 ./src/0VideoOut.o
+                0x0000041c                VideoOutInit
+ .text.TIMER16_0_IRQHandler
+                0x0000063c       0xdc ./src/0VideoOut.o
+                0x0000063c                TIMER16_0_IRQHandler
+ .text._ZN8Renderer5SortYEii
+                0x00000718      0x8fc ./src/3d.o
+                0x00000718                Renderer::SortY(int, int)
+ .text._Z13DrawTrianglesiPhi
+                0x00001014      0xd64 ./src/3d.o
+                0x00001014                DrawTriangles(int, unsigned char*, int)
+ .text._Z17DrawTrianglesLoopPhS_
+                0x00001d78      0x8ac ./src/3d.o
+                0x00001d78                DrawTrianglesLoop(unsigned char*, unsigned char*)
+ .text._Z7D3DLoopi
+                0x00002624      0x280 ./src/D3DDemo.o
+                0x00002624                D3DLoop(int)
+ .text._Z7D3DInitv
+                0x000028a4       0x54 ./src/D3DDemo.o
+                0x000028a4                D3DInit()
+ .text._Z14LineBufferInitv
+                0x000028f8       0x14 ./src/Shell.o
+                0x000028f8                LineBufferInit()
+ .text._Z13LineBufferGetv
+                0x0000290c       0x34 ./src/Shell.o
+                0x0000290c                LineBufferGet()
+ .text.__aeabi_unwind_cpp_pr0
+                0x00002940        0x4 ./src/Shell.o
+                0x00002940                __aeabi_unwind_cpp_pr0
+ .text.__aeabi_unwind_cpp_pr1
+                0x00002944        0x4 ./src/Shell.o
+                0x00002944                __aeabi_unwind_cpp_pr1
+ .text.FillLine24
+                0x00002948       0x34 ./src/Shell.o
+                0x00002948                FillLine24
+ .text.FillRuns
+                0x0000297c       0xd4 ./src/Shell.o
+                0x0000297c                FillRuns
+ .text.CPPShell
+                0x00002a50       0x14 ./src/Shell.o
+                0x00002a50                CPPShell
+ .text._Z13CopyProcToRamPvPhi
+                0x00002a64       0x18 ./src/Shell.o
+                0x00002a64                CopyProcToRam(void*, unsigned char*, int)
+ .text._Z17LineBufferEnqueuePh
+                0x00002a7c       0x24 ./src/Shell.o
+                0x00002a7c                LineBufferEnqueue(unsigned char*)
+ .text.Reset_Handler
+                0x00002aa0       0x74 ./src/cr_startup_lpc11.o
+                0x00002aa0                Reset_Handler
+                0x00002aa0                ResetISR
+ .text.NMI_Handler
+                0x00002b14        0x8 ./src/cr_startup_lpc11.o
+                0x00002b14                NMI_Handler
+ .text.HardFault_Handler
+                0x00002b1c        0x8 ./src/cr_startup_lpc11.o
+                0x00002b1c                HardFault_Handler
+ .text.SVCall_Handler
+                0x00002b24        0x8 ./src/cr_startup_lpc11.o
+                0x00002b24                SVCall_Handler
+ .text.PendSV_Handler
+                0x00002b2c        0x8 ./src/cr_startup_lpc11.o
+                0x00002b2c                PendSV_Handler
+ .text.IntDefaultHandler
+                0x00002b34        0x8 ./src/cr_startup_lpc11.o
+                0x00002b34                UART_IRQHandler
+                0x00002b34                TIMER32_0_IRQHandler
+                0x00002b34                TIMER32_1_IRQHandler
+                0x00002b34                IntDefaultHandler
+                0x00002b34                PIOINT1_IRQHandler
+                0x00002b34                SSP_IRQHandler
+                0x00002b34                TIMER16_1_IRQHandler
+                0x00002b34                USB_FIQHandler
+                0x00002b34                ADC_IRQHandler
+                0x00002b34                PIOINT2_IRQHandler
+                0x00002b34                USB_IRQHandler
+                0x00002b34                BOD_IRQHandler
+                0x00002b34                WAKEUP_IRQHandler
+                0x00002b34                PIOINT0_IRQHandler
+                0x00002b34                I2C_IRQHandler
+                0x00002b34                WDT_IRQHandler
+                0x00002b34                PIOINT3_IRQHandler
+                0x00002b34                FMC_IRQHandler
+ .text._Z3COSh  0x00002b3c       0x3c ./src/math3D.o
+                0x00002b3c                COS(unsigned char)
+ .text._ZN6Matrix9TranslateElll
+                0x00002b78       0x18 ./src/math3D.o
+                0x00002b78                Matrix::Translate(long, long, long)
+ .text._Z2SCiRlS_
+                0x00002b90       0x4c ./src/math3D.o
+                0x00002b90                SC(int, long&, long&)
+ .text._ZN6Matrix9TransformER4Vec3
+                0x00002bdc       0x58 ./src/math3D.o
+                0x00002bdc                Matrix::Transform(Vec3&)
+ .text._ZN6Matrix8IdentityEv
+                0x00002c34       0x1c ./src/math3D.o
+                0x00002c34                Matrix::Identity()
+ .text._ZN6Matrix11ConcatenateERS_
+                0x00002c50       0xf8 ./src/math3D.o
+                0x00002c50                Matrix::Concatenate(Matrix&)
+ .text._ZN6Matrix7RotateZEi
+                0x00002d48       0x28 ./src/math3D.o
+                0x00002d48                Matrix::RotateZ(int)
+ .text._ZN6Matrix7RotateYEi
+                0x00002d70       0x28 ./src/math3D.o
+                0x00002d70                Matrix::RotateY(int)
+ .text._ZN6Matrix7RotateXEi
+                0x00002d98       0x28 ./src/math3D.o
+                0x00002d98                Matrix::RotateX(int)
+ .text.main     0x00002dc0        0xc ./src/rbox_main.o
+                0x00002dc0                main
+ .text.SystemInit
+                0x00002dcc       0xe0 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+                0x00002dcc                SystemInit
+ .text.__NOP    0x00002eac        0xc C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .text.memcpy   0x00002eb8       0x40 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+                0x00002eb8                memcpy
+ .text.memset   0x00002ef8       0x50 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+                0x00002ef8                memset
+ .text.__aeabi_idiv0
+                0x00002f48        0x4 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                0x00002f48                __aeabi_idiv0
+ .text.__bhs_uidivmod
+                0x00002f4c       0x88 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                0x00002f4c                __bhs_uidivmod
+ .text.__aeabi_idiv
+                0x00002fd4       0x30 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                0x00002fd4                __aeabi_idiv
+ .text.__aeabi_uidiv
+                0x00003004       0x18 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                0x00003004                __aeabi_uidiv
+ *(.rodata*)
+ .rodata        0x0000301c      0x1d8 ./src/0VideoOut.o
+                0x000031b0                _clocks
+                0x0000301c                _pulses
+                0x0000302c                _waveSampleRates
+                0x000030a8                _wave
+ .rodata        0x000031f4       0x40 ./src/math3D.o
+                0x000031f4                _trig
+
+.glue_7         0x00003234        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00003234        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00003234        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00003234        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab      0x00003234       0x24
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text._ZN8Renderer5SortYEii
+                0x00003234        0xc ./src/3d.o
+ .ARM.extab.text._Z13DrawTrianglesiPhi
+                0x00003240        0xc ./src/3d.o
+ .ARM.extab.text._Z7D3DLoopi
+                0x0000324c        0xc ./src/D3DDemo.o
+                0x00003258                __exidx_start = .
+
+.ARM.exidx      0x00003258       0x50
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text._ZN8Renderer5SortYEii
+                0x00003258        0x8 ./src/3d.o
+ .ARM.exidx.text._Z13DrawTrianglesiPhi
+                0x00003260        0x8 ./src/3d.o
+ .ARM.exidx.text._Z17DrawTrianglesLoopPhS_
+                0x00003268        0x8 ./src/3d.o
+ .ARM.exidx.text._Z7D3DLoopi
+                0x00003270        0x8 ./src/D3DDemo.o
+ .ARM.exidx.text._Z7D3DInitv
+                0x00003278        0x8 ./src/D3DDemo.o
+ .ARM.exidx.text._Z14LineBufferInitv
+                0x00003280        0x8 ./src/Shell.o
+ .ARM.exidx.text._Z13LineBufferGetv
+                0x00003288        0x0 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x00003288        0x0 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x00003288        0x0 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.FillLine24
+                0x00003288        0x0 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.FillRuns
+                0x00003288        0x0 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.CPPShell
+                0x00003288        0x8 ./src/Shell.o
+ .ARM.exidx.text._Z13CopyProcToRamPvPhi
+                0x00003290        0x8 ./src/Shell.o
+ .ARM.exidx.text._Z17LineBufferEnqueuePh
+                0x00003298       0x10 ./src/Shell.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z3COSh
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix9TranslateElll
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z2SCiRlS_
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix9TransformER4Vec3
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix8IdentityEv
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix11ConcatenateERS_
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix7RotateZEi
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix7RotateYEi
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN6Matrix7RotateXEi
+                0x000032a8        0x0 ./src/math3D.o
+                                  0x8 (size before relaxing)
+                0x000032a8                __exidx_end = .
+                0x000032a8                _etext = .
+
+.uninit_RESERVED
+ *(.bss.$RESERVED*)
+
+.data           0x10000000      0x470 load address 0x000032a8
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x10000000        0x1 ./src/0VideoOut.o
+                0x10000000                _keyState
+ *fill*         0x10000001        0x3 00
+ .data          0x10000004      0x1e8 ./src/3d.o
+                0x1000014a                _cubeTriangle
+                0x10000004                _gradientPoints
+                0x1000017a                _cubeTriangles
+                0x10000100                _octahedronVertex
+                0x100000e4                _tetrahedronVertex
+                0x100000c0                _icosVertex
+                0x100001dc                _icosohedron
+                0x10000070                _icosTriangle
+                0x100001cc                _cube
+                0x10000030                _colorMap
+                0x10000020                _models
+                0x100000f0                _tetrahedronTriangle
+                0x100001bc                _octahedron
+                0x100001ac                _tetrahedron
+                0x10000010                _gradientColors
+                0x10000112                _octahedronTriangle
+                0x10000132                _cubeVertex
+ .data          0x100001ec      0x280 ./src/D3DDemo.o
+                0x100001ec                voronoidark
+                0x1000042c                ramp
+ .data          0x1000046c        0x4 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+                0x1000046c                SystemCoreClock
+                0x10000470                _edata = .
+
+.bss            0x10000470     0x1430 load address 0x00003718
+                0x10000470                _bss = .
+ *(.bss*)
+ .bss           0x10000470        0xc ./src/0VideoOut.o
+                0x10000478                _lastKey
+                0x10000470                _vbl
+                0x10000476                _keyDown
+ .bss           0x1000047c        0xc ./src/3d.o
+                0x1000047c                _model
+                0x10000484                _hacky
+                0x10000480                _hackyColor
+ .bss           0x10000488      0xcb0 ./src/D3DDemo.o
+                0x10000498                _counter
+                0x1000049c                _vcounter
+                0x10000488                _lasty
+                0x10000fc4                _patternBlack
+                0x1000048c                _lastWrite
+                0x10000fc0                _fillLine
+                0x10001134                _left
+                0x10001130                _firstY
+                0x10000fdc                _fillRuns
+                0x100007c0                _runs
+                0x10000fe0                _fillRunsBuffer
+                0x10000490                _write
+                0x100004a0                _appBuffer
+                0x10000494                _read
+                0x100010e0                _fillLineBuffer
+ .bss           0x10001138      0x514 ./src/Shell.o
+                0x10001138                gLineBuffer
+ *(COMMON)
+ COMMON         0x1000164c      0x254 ./src/0VideoOut.o
+                0x1000164c                _lastx
+                0x10001650                gScreen
+                0x100018a0                _ebss = .
+                0x100018a0                PROVIDE (end, .)
+                0x100018a0                PROVIDE (_pvHeapStart, .)
+                0x10002000                PROVIDE (_vStackTop, (__top_RamLoc8 - 0x0))
+OUTPUT(RBox.axf elf32-littlearm)
+
+.debug_abbrev   0x00000000     0x1485
+ .debug_abbrev  0x00000000      0x472 ./src/0VideoOut.o
+ .debug_abbrev  0x00000472      0x484 ./src/3d.o
+ .debug_abbrev  0x000008f6      0x157 ./src/D3DDemo.o
+ .debug_abbrev  0x00000a4d       0x35 ./src/PaletteDemo.o
+ .debug_abbrev  0x00000a82       0x35 ./src/ParticleDemo.o
+ .debug_abbrev  0x00000ab7      0x20f ./src/Shell.o
+ .debug_abbrev  0x00000cc6       0x35 ./src/SpriteDemo.o
+ .debug_abbrev  0x00000cfb       0x35 ./src/TileDemo.o
+ .debug_abbrev  0x00000d30       0xe1 ./src/cr_startup_lpc11.o
+ .debug_abbrev  0x00000e11      0x27c ./src/math3D.o
+ .debug_abbrev  0x0000108d       0x4e ./src/rbox_main.o
+ .debug_abbrev  0x000010db       0xd7 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_abbrev  0x000011b2      0x2d3 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_info     0x00000000     0x68a8
+ .debug_info    0x00000000     0x1a26 ./src/0VideoOut.o
+ .debug_info    0x00001a26     0x290d ./src/3d.o
+ .debug_info    0x00004333      0x444 ./src/D3DDemo.o
+ .debug_info    0x00004777       0x7a ./src/PaletteDemo.o
+ .debug_info    0x000047f1       0x7a ./src/ParticleDemo.o
+ .debug_info    0x0000486b      0x469 ./src/Shell.o
+ .debug_info    0x00004cd4       0x7a ./src/SpriteDemo.o
+ .debug_info    0x00004d4e       0x7a ./src/TileDemo.o
+ .debug_info    0x00004dc8      0x1ae ./src/cr_startup_lpc11.o
+ .debug_info    0x00004f76      0x6ff ./src/math3D.o
+ .debug_info    0x00005675       0x90 ./src/rbox_main.o
+ .debug_info    0x00005705      0x4e5 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_info    0x00005bea      0xcbe c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_line     0x00000000     0x349b
+ .debug_line    0x00000000      0x6f7 ./src/0VideoOut.o
+ .debug_line    0x000006f7      0xac0 ./src/3d.o
+ .debug_line    0x000011b7      0x382 ./src/D3DDemo.o
+ .debug_line    0x00001539      0x2ba ./src/PaletteDemo.o
+ .debug_line    0x000017f3      0x2bb ./src/ParticleDemo.o
+ .debug_line    0x00001aae      0x403 ./src/Shell.o
+ .debug_line    0x00001eb1      0x2b9 ./src/SpriteDemo.o
+ .debug_line    0x0000216a      0x2b7 ./src/TileDemo.o
+ .debug_line    0x00002421      0x31a ./src/cr_startup_lpc11.o
+ .debug_line    0x0000273b      0x3f9 ./src/math3D.o
+ .debug_line    0x00002b34      0x2bd ./src/rbox_main.o
+ .debug_line    0x00002df1      0x327 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_line    0x00003118      0x383 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_macinfo  0x00000000    0x32927
+ .debug_macinfo
+                0x00000000     0x4636 ./src/0VideoOut.o
+ .debug_macinfo
+                0x00004636     0x46ca ./src/3d.o
+ .debug_macinfo
+                0x00008d00     0x459f ./src/D3DDemo.o
+ .debug_macinfo
+                0x0000d29f     0x459f ./src/PaletteDemo.o
+ .debug_macinfo
+                0x0001183e     0x45ab ./src/ParticleDemo.o
+ .debug_macinfo
+                0x00015de9     0x463b ./src/Shell.o
+ .debug_macinfo
+                0x0001a424     0x459f ./src/SpriteDemo.o
+ .debug_macinfo
+                0x0001e9c3     0x459f ./src/TileDemo.o
+ .debug_macinfo
+                0x00022f62     0x2685 ./src/cr_startup_lpc11.o
+ .debug_macinfo
+                0x000255e7     0x45da ./src/math3D.o
+ .debug_macinfo
+                0x00029bc1     0x44fb ./src/rbox_main.o
+ .debug_macinfo
+                0x0002e0bc     0x486b C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+
+.debug_frame    0x00000000      0xa90
+ .debug_frame   0x00000000      0x260 ./src/0VideoOut.o
+ .debug_frame   0x00000260       0xf8 ./src/3d.o
+ .debug_frame   0x00000358       0x54 ./src/D3DDemo.o
+ .debug_frame   0x000003ac      0x180 ./src/Shell.o
+ .debug_frame   0x0000052c       0xd8 ./src/cr_startup_lpc11.o
+ .debug_frame   0x00000604      0x128 ./src/math3D.o
+ .debug_frame   0x0000072c       0x28 ./src/rbox_main.o
+ .debug_frame   0x00000754       0x6c C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_frame   0x000007c0      0x2d0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_loc      0x00000000     0x450f
+ .debug_loc     0x00000000      0x5a2 ./src/0VideoOut.o
+ .debug_loc     0x000005a2     0x1f66 ./src/3d.o
+ .debug_loc     0x00002508      0x424 ./src/D3DDemo.o
+ .debug_loc     0x0000292c      0x444 ./src/Shell.o
+ .debug_loc     0x00002d70      0x139 ./src/cr_startup_lpc11.o
+ .debug_loc     0x00002ea9      0x57f ./src/math3D.o
+ .debug_loc     0x00003428       0x1f ./src/rbox_main.o
+ .debug_loc     0x00003447       0x99 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_loc     0x000034e0     0x102f c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_pubnames
+                0x00000000      0x9db
+ .debug_pubnames
+                0x00000000      0x202 ./src/0VideoOut.o
+ .debug_pubnames
+                0x00000202      0x1d2 ./src/3d.o
+ .debug_pubnames
+                0x000003d4      0x112 ./src/D3DDemo.o
+ .debug_pubnames
+                0x000004e6      0x122 ./src/Shell.o
+ .debug_pubnames
+                0x00000608       0xab ./src/cr_startup_lpc11.o
+ .debug_pubnames
+                0x000006b3       0xc8 ./src/math3D.o
+ .debug_pubnames
+                0x0000077b       0x1b ./src/rbox_main.o
+ .debug_pubnames
+                0x00000796       0x4f C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_pubnames
+                0x000007e5      0x1f6 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_aranges  0x00000000      0x3b8
+ .debug_aranges
+                0x00000000       0xc8 ./src/0VideoOut.o
+ .debug_aranges
+                0x000000c8       0x50 ./src/3d.o
+ .debug_aranges
+                0x00000118       0x28 ./src/D3DDemo.o
+ .debug_aranges
+                0x00000140       0x88 ./src/Shell.o
+ .debug_aranges
+                0x000001c8       0x50 ./src/cr_startup_lpc11.o
+ .debug_aranges
+                0x00000218       0x68 ./src/math3D.o
+ .debug_aranges
+                0x00000280       0x20 ./src/rbox_main.o
+ .debug_aranges
+                0x000002a0       0x30 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_aranges
+                0x000002d0       0xe8 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_ranges   0x00000000     0x10d0
+ .debug_ranges  0x00000000      0x400 ./src/0VideoOut.o
+ .debug_ranges  0x00000400      0x870 ./src/3d.o
+ .debug_ranges  0x00000c70       0xe8 ./src/D3DDemo.o
+ .debug_ranges  0x00000d58       0xa0 ./src/Shell.o
+ .debug_ranges  0x00000df8       0x48 ./src/cr_startup_lpc11.o
+ .debug_ranges  0x00000e40       0x90 ./src/math3D.o
+ .debug_ranges  0x00000ed0       0x18 ./src/rbox_main.o
+ .debug_ranges  0x00000ee8       0x28 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .debug_ranges  0x00000f10      0x1c0 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.debug_str      0x00000000     0x1850
+ .debug_str     0x00000000      0x98f ./src/0VideoOut.o
+                                0x9e8 (size before relaxing)
+ .debug_str     0x0000098f      0x828 ./src/3d.o
+                                0x986 (size before relaxing)
+ .debug_str     0x000011b7      0x10e ./src/D3DDemo.o
+                                0x230 (size before relaxing)
+ .debug_str     0x000012c5       0x15 ./src/PaletteDemo.o
+                                 0xf8 (size before relaxing)
+ .debug_str     0x000012da       0x16 ./src/ParticleDemo.o
+                                 0xf9 (size before relaxing)
+ .debug_str     0x000012f0      0x179 ./src/Shell.o
+                                0x2a2 (size before relaxing)
+ .debug_str     0x00001469       0x14 ./src/SpriteDemo.o
+                                 0xf7 (size before relaxing)
+ .debug_str     0x0000147d       0x12 ./src/TileDemo.o
+                                 0xf5 (size before relaxing)
+ .debug_str     0x0000148f       0xbc ./src/cr_startup_lpc11.o
+                                0x19b (size before relaxing)
+ .debug_str     0x0000154b       0x2f ./src/math3D.o
+                                0x215 (size before relaxing)
+ .debug_str     0x0000157a       0x18 ./src/rbox_main.o
+                                 0xe7 (size before relaxing)
+ .debug_str     0x00001592       0x9f C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+                                0x3a7 (size before relaxing)
+ .debug_str     0x00001631      0x21f c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+                                0x29f (size before relaxing)
+
+.comment        0x00000000      0x285
+ .comment       0x00000000       0x2b ./src/0VideoOut.o
+ .comment       0x0000002b       0x2b ./src/3d.o
+ .comment       0x00000056       0x2b ./src/D3DDemo.o
+ .comment       0x00000081       0x2b ./src/PaletteDemo.o
+ .comment       0x000000ac       0x2b ./src/ParticleDemo.o
+ .comment       0x000000d7       0x2b ./src/Shell.o
+ .comment       0x00000102       0x2b ./src/SpriteDemo.o
+ .comment       0x0000012d       0x2b ./src/TileDemo.o
+ .comment       0x00000158       0x2b ./src/cr_startup_lpc11.o
+ .comment       0x00000183       0x2b ./src/math3D.o
+ .comment       0x000001ae       0x2b ./src/rbox_main.o
+ .comment       0x000001d9       0x2b C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .comment       0x00000204       0x2b c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .comment       0x0000022f       0x2b c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .comment       0x0000025a       0x2b c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 ./src/0VideoOut.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/3d.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/D3DDemo.o
+ .ARM.attributes
+                0x00000093       0x31 ./src/PaletteDemo.o
+ .ARM.attributes
+                0x000000c4       0x31 ./src/ParticleDemo.o
+ .ARM.attributes
+                0x000000f5       0x31 ./src/Shell.o
+ .ARM.attributes
+                0x00000126       0x31 ./src/SpriteDemo.o
+ .ARM.attributes
+                0x00000157       0x31 ./src/TileDemo.o
+ .ARM.attributes
+                0x00000188       0x31 ./src/cr_startup_lpc11.o
+ .ARM.attributes
+                0x000001b9       0x31 ./src/math3D.o
+ .ARM.attributes
+                0x000001ea       0x31 ./src/rbox_main.o
+ .ARM.attributes
+                0x0000021b       0x31 C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug\libCMSISv1p30_LPC11xx.a(system_LPC11xx.o)
+ .ARM.attributes
+                0x0000024c       0x30 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000027c       0x30 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x000002ac       0x30 c:/nxp/lpcxpresso_3.6/tools/bin/../lib/gcc/arm-none-eabi/4.3.3/armv6-m\libcr_eabihelpers.a(rtlib.o)
