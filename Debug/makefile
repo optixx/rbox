@@ -29,7 +29,7 @@ all: RBox.axf
 RBox.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"C:\Documents and Settings\Administrator\My Documents\workspace\CMSISv1p30_LPC11xx\Debug" -Xlinker --gc-sections -Xlinker -Map=RBox.map -mcpu=cortex-m0 -mthumb -T RBox.ld -o"RBox.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -L"E:\workspace\CMSISv1p30_LPC11xx\Debug" -Xlinker --gc-sections -Xlinker -Map=RBox.map -mcpu=cortex-m0 -mthumb -T RBox.ld -o"RBox.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
