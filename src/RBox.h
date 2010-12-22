@@ -52,11 +52,11 @@ typedef void (*FillRunsProc)(u8* dst, u8* runs, int count);
 void* CopyProcToRam(void* proc, u8* buffer, int len);
 
 
-//#define TILE_DEMO
+#define TILE_DEMO
 //#define PALETTE_DEMO
 //#define SPRITE_DEMO
 //#define CURVE_DEMO
-#define D3D_DEMO
+//#define D3D_DEMO
 //#define PARTICLE_DEMO
 
 #ifdef PALETTE_DEMO

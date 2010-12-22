@@ -129,6 +129,7 @@ int TileLoop(int n)
 	px = _x;
 	py = _y;
 
+	//printf("%dx%d\n",px,py);
 
 	u8 cells[32*3];
 	int cellx = px>>3;

@@ -769,7 +769,7 @@ class ModelState
     
     void Rotate()
     {
-        #if 1
+        #if 0
     	int x,y;
     	if (ReadXY(&y,&x) & 1)
     		_model = (_model + 0xFF) & ~0xFF;
